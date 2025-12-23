@@ -80,7 +80,7 @@ KEEPALIVE_KV
 
 1. 进入 **Workers 和 Pages**
 2. 创建一个新的 Worker
-3. 将下面的 **完整代码**粘贴进去
+3. 将 _worker.js **完整代码**粘贴进去
 4. 保存并部署
 
 ---
